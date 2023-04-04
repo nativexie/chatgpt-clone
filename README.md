@@ -8,6 +8,7 @@ Build Yourown ChatGPT with OpenAI API &amp; Gradio
 3. Must keep that api key to highly private and don't show them to anyone
 4. Install the required libraries `pip install -r requirements.txt` 
 5. run `python app.py` 
+6. or run `python app_stream.py`, to interact in streaming mode
 
 ### Complete Tutorial: https://youtu.be/n5nn3mQxrE8
 
